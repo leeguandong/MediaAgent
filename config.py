@@ -11,7 +11,7 @@ WEIBO_CONFIG = {
     "start_page": 1,                 # 开始页码
     "page_weibo_count": 10,          # 每页微博数
     "remove_html_tag": 1,            # 移除HTML标签
-    "cookie": "SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W51sIyEX2_8CMB9OkYILWgJ5NHD95QE1K50S05ESo2NWs4Dqcj.i--ciKL8iKLhi--Xi-zRiKy2i--Ri-2RiKn7i--Xi-zRi-82; _T_WM=57438471825; WEIBOCN_FROM=1110106030; MLOGIN=1; SCF=Al1elmDhgVPzcbnnSPaqCqtsZh4SH3AysshDgIGzj8qk3W3fiYoLF5bkJCjFR_OJS_nNEYz7-xKf63jUzZau3K8.; SUB=_2A25K29wzDeRhGeRH61EW8CzKyjuIHXVpmVH7rDV6PUJbktAbLU32kW1NTa16RQq94u9YY6HpuC4TYGHtmX3C6yIr; SSOLoginState=1742711908; ALF=1745303908; M_WEIBOCN_PARAMS=oid%3D5146730350250605%26lfid%3D231016_-_selffans%26luicode%3D20000174%26uicode%3D20000174; XSRF-TOKEN=6dcb03"          # 替换为实际Cookie
+    "cookie": ""          # 替换为实际Cookie
 }
 
 # 发布平台配置
